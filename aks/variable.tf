@@ -8,6 +8,7 @@ variable "aks" {
       name = string
       node_count = number
       vm_size = string
+      vnet_subnet_id = string
     })
   }))
 }
