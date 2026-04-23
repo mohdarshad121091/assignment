@@ -1,0 +1,9 @@
+variable "rgs" {}
+variable "virtual_networks" {}
+variable "peering" {}
+variable "subnet" {}
+variable "keyvault" {}
+variable "keyvault_secret" {}
+variable "keyvault_access_policy" {}
+variable "acr" {}
+variable "aks" {}
